@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.546633b0.css",
-    "main.js": "/static/js/main.9dac2cf0.js",
+    "main.js": "/static/js/main.c5c16c36.js",
     "static/js/453.68693753.chunk.js": "/static/js/453.68693753.chunk.js",
     "static/media/portrait3.jpg": "/static/media/portrait3.c2a25f50ba608164eb61.jpg",
     "static/media/portrait2.jpg": "/static/media/portrait2.28e54c79d4a305be73f3.jpg",
-    "static/media/diabet.png": "/static/media/diabet.508652549696667cd6ef.png",
+    "static/media/diabetes.png": "/static/media/diabetes.508652549696667cd6ef.png",
     "static/media/calcium_for_children.jpg": "/static/media/calcium_for_children.e715c085f2148a782aef.jpg",
     "static/media/Tiens_image.jpg": "/static/media/Tiens_image.085a37bf143bce28d6c9.jpg",
     "static/media/cover1.jpg": "/static/media/cover1.8d4800e8d40f64a2e1e4.jpg",
@@ -28,7 +28,7 @@
     "static/media/certificate2.jpg": "/static/media/certificate2.eb39575f19032fd0b367.jpg",
     "static/media/t2.jpg": "/static/media/t2.c20050e168a3e3e98318.jpg",
     "static/media/calcium_for_children2.jpg": "/static/media/calcium_for_children2.b0bcfc3fba4ddb832bd4.jpg",
-    "static/media/astma.jpg": "/static/media/astma.ab9e70615ad1c0794876.jpg",
+    "static/media/bronchial_asthma.jpg": "/static/media/bronchial_asthma.ab9e70615ad1c0794876.jpg",
     "static/media/portrait1.jpg": "/static/media/portrait1.6ea25406a82bf202929e.jpg",
     "static/media/cordyceps2.jpg": "/static/media/cordyceps2.412a3392882c66b21709.jpg",
     "static/media/TianshiVitalitySoftgels.jpg": "/static/media/TianshiVitalitySoftgels.6f6c7ac5a57b93d70429.jpg",
@@ -38,16 +38,16 @@
     "static/media/adenoma_prostate.jpg": "/static/media/adenoma_prostate.2befee5dad614560d979.jpg",
     "static/media/t7.jpg": "/static/media/t7.3ce22c62097f856c2280.jpg",
     "static/media/bgimage.jpg": "/static/media/bgimage.381874abe6b40e8f9bbd.jpg",
-    "static/media/disbakterioz_kishechnika.jpg": "/static/media/disbakterioz_kishechnika.f8ad99f1772b927df706.jpg",
+    "static/media/intestinal_dysbacteriosis.jpg": "/static/media/intestinal_dysbacteriosis.f8ad99f1772b927df706.jpg",
     "static/media/cover2.jpg": "/static/media/cover2.e0591b01c1697608e8bb.jpg",
     "static/media/map.svg": "/static/media/map.6e308768f670c85d3179e1f9b50b0d88.svg",
-    "static/media/temp.jpg": "/static/media/temp.3329090c8c6123b645aa.jpg",
+    "static/media/pressure_fluctuations.jpg": "/static/media/pressure_fluctuations.3329090c8c6123b645aa.jpg",
     "static/media/chitosan2.jpg": "/static/media/chitosan2.1f4b04a22748b5f37abb.jpg",
     "static/media/woman-doctor.webp": "/static/media/woman-doctor.d46b0a94af4531291b87.webp",
     "static/media/doctor3.jpg": "/static/media/doctor3.a2d935b156797ea4cd9b.jpg",
     "static/media/spirulina.jpg": "/static/media/spirulina.7dbaa17e73509dc3c0cf.jpg",
     "static/media/t6.jpg": "/static/media/t6.b8710124b717ba38f580.jpg",
-    "static/media/artroz_artrit.jpg": "/static/media/artroz_artrit.857a57b2d90405fe615d.jpg",
+    "static/media/artroz_and_artrit.jpg": "/static/media/artroz_and_artrit.857a57b2d90405fe615d.jpg",
     "static/media/huolikang.jpg": "/static/media/huolikang.1b8bfc3d287b047ebfd7.jpg",
     "static/media/chitosan.jpg": "/static/media/chitosan.21e7969c588deea8f654.jpg",
     "static/media/cordyceps.jpg": "/static/media/cordyceps.8a1e7b01f4e204bef8bb.jpg",
@@ -76,11 +76,11 @@
     "static/media/success.svg": "/static/media/success.80ebdf85c83a99b8d746a4a6d38ca2dd.svg",
     "static/media/closeIcon.svg": "/static/media/closeIcon.12b13cd0077bcc1a5a844bdcf6bd7586.svg",
     "main.546633b0.css.map": "/static/css/main.546633b0.css.map",
-    "main.9dac2cf0.js.map": "/static/js/main.9dac2cf0.js.map",
+    "main.c5c16c36.js.map": "/static/js/main.c5c16c36.js.map",
     "453.68693753.chunk.js.map": "/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.546633b0.css",
-    "static/js/main.9dac2cf0.js"
+    "static/js/main.c5c16c36.js"
   ]
 }
