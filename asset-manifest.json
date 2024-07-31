@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.546633b0.css",
-    "main.js": "/static/js/main.c5c16c36.js",
+    "main.js": "/static/js/main.39d34733.js",
     "static/js/453.68693753.chunk.js": "/static/js/453.68693753.chunk.js",
     "static/media/portrait3.jpg": "/static/media/portrait3.c2a25f50ba608164eb61.jpg",
     "static/media/portrait2.jpg": "/static/media/portrait2.28e54c79d4a305be73f3.jpg",
@@ -47,7 +47,7 @@
     "static/media/doctor3.jpg": "/static/media/doctor3.a2d935b156797ea4cd9b.jpg",
     "static/media/spirulina.jpg": "/static/media/spirulina.7dbaa17e73509dc3c0cf.jpg",
     "static/media/t6.jpg": "/static/media/t6.b8710124b717ba38f580.jpg",
-    "static/media/artroz_and_artrit.jpg": "/static/media/artroz_and_artrit.857a57b2d90405fe615d.jpg",
+    "static/media/arthritis_and_arthrosis.jpg": "/static/media/arthritis_and_arthrosis.857a57b2d90405fe615d.jpg",
     "static/media/huolikang.jpg": "/static/media/huolikang.1b8bfc3d287b047ebfd7.jpg",
     "static/media/chitosan.jpg": "/static/media/chitosan.21e7969c588deea8f654.jpg",
     "static/media/cordyceps.jpg": "/static/media/cordyceps.8a1e7b01f4e204bef8bb.jpg",
@@ -76,11 +76,11 @@
     "static/media/success.svg": "/static/media/success.80ebdf85c83a99b8d746a4a6d38ca2dd.svg",
     "static/media/closeIcon.svg": "/static/media/closeIcon.12b13cd0077bcc1a5a844bdcf6bd7586.svg",
     "main.546633b0.css.map": "/static/css/main.546633b0.css.map",
-    "main.c5c16c36.js.map": "/static/js/main.c5c16c36.js.map",
+    "main.39d34733.js.map": "/static/js/main.39d34733.js.map",
     "453.68693753.chunk.js.map": "/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.546633b0.css",
-    "static/js/main.c5c16c36.js"
+    "static/js/main.39d34733.js"
   ]
 }
