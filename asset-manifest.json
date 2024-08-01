@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.546633b0.css",
-    "main.js": "/static/js/main.56381293.js",
+    "main.js": "/static/js/main.cc87083a.js",
     "static/js/453.68693753.chunk.js": "/static/js/453.68693753.chunk.js",
     "static/media/portrait3.jpg": "/static/media/portrait3.c2a25f50ba608164eb61.jpg",
     "static/media/portrait2.jpg": "/static/media/portrait2.28e54c79d4a305be73f3.jpg",
-    "static/media/diabetes.png": "/static/media/diabetes.508652549696667cd6ef.png",
     "static/media/calcium_for_children.jpg": "/static/media/calcium_for_children.e715c085f2148a782aef.jpg",
     "static/media/Tiens_image.jpg": "/static/media/Tiens_image.085a37bf143bce28d6c9.jpg",
     "static/media/cover1.jpg": "/static/media/cover1.8d4800e8d40f64a2e1e4.jpg",
@@ -41,6 +40,7 @@
     "static/media/intestinal_dysbacteriosis.jpg": "/static/media/intestinal_dysbacteriosis.f8ad99f1772b927df706.jpg",
     "static/media/cover2.jpg": "/static/media/cover2.e0591b01c1697608e8bb.jpg",
     "static/media/map.svg": "/static/media/map.6e308768f670c85d3179e1f9b50b0d88.svg",
+    "static/media/diabetes.jpg": "/static/media/diabetes.2fe134682f591abf3b54.jpg",
     "static/media/pressure_fluctuations.jpg": "/static/media/pressure_fluctuations.3329090c8c6123b645aa.jpg",
     "static/media/chitosan2.jpg": "/static/media/chitosan2.1f4b04a22748b5f37abb.jpg",
     "static/media/woman-doctor.webp": "/static/media/woman-doctor.d46b0a94af4531291b87.webp",
@@ -76,11 +76,11 @@
     "static/media/success.svg": "/static/media/success.80ebdf85c83a99b8d746a4a6d38ca2dd.svg",
     "static/media/closeIcon.svg": "/static/media/closeIcon.12b13cd0077bcc1a5a844bdcf6bd7586.svg",
     "main.546633b0.css.map": "/static/css/main.546633b0.css.map",
-    "main.56381293.js.map": "/static/js/main.56381293.js.map",
+    "main.cc87083a.js.map": "/static/js/main.cc87083a.js.map",
     "453.68693753.chunk.js.map": "/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.546633b0.css",
-    "static/js/main.56381293.js"
+    "static/js/main.cc87083a.js"
   ]
 }
