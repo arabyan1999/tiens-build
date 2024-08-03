@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.546633b0.css",
-    "main.js": "/static/js/main.d403a316.js",
+    "main.js": "/static/js/main.fcfa913f.js",
     "static/js/453.68693753.chunk.js": "/static/js/453.68693753.chunk.js",
     "static/media/portrait3.jpg": "/static/media/portrait3.c2a25f50ba608164eb61.jpg",
     "static/media/portrait2.jpg": "/static/media/portrait2.28e54c79d4a305be73f3.jpg",
@@ -11,6 +11,7 @@
     "static/media/atherosclerosis.jpg": "/static/media/atherosclerosis.97cf02763f2e6634eb15.jpg",
     "static/media/ikan.jpg": "/static/media/ikan.31822166b10bbc35d659.jpg",
     "static/media/detox.jpg": "/static/media/detox.558f512342d1e48cd432.jpg",
+    "static/media/tiens_nice_2_0.jpg": "/static/media/tiens_nice_2_0.c39f638f0136e218ebc6.jpg",
     "static/media/certificate3.jpg": "/static/media/certificate3.d77dc37d3294eee85b03.jpg",
     "static/media/certificate1.jpg": "/static/media/certificate1.58d8cd6fd79bf227f4b6.jpg",
     "static/media/certificate5.jpg": "/static/media/certificate5.c200c420aee8ffd4278f.jpg",
@@ -76,11 +77,11 @@
     "static/media/success.svg": "/static/media/success.80ebdf85c83a99b8d746a4a6d38ca2dd.svg",
     "static/media/closeIcon.svg": "/static/media/closeIcon.12b13cd0077bcc1a5a844bdcf6bd7586.svg",
     "main.546633b0.css.map": "/static/css/main.546633b0.css.map",
-    "main.d403a316.js.map": "/static/js/main.d403a316.js.map",
+    "main.fcfa913f.js.map": "/static/js/main.fcfa913f.js.map",
     "453.68693753.chunk.js.map": "/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.546633b0.css",
-    "static/js/main.d403a316.js"
+    "static/js/main.fcfa913f.js"
   ]
 }
