@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.546633b0.css",
-    "main.js": "/static/js/main.f4f74018.js",
-    "static/js/453.68693753.chunk.js": "/static/js/453.68693753.chunk.js",
+    "main.js": "/static/js/main.eae457da.js",
+    "static/js/453.b209ef3f.chunk.js": "/static/js/453.b209ef3f.chunk.js",
     "static/media/portrait3.jpg": "/static/media/portrait3.c2a25f50ba608164eb61.jpg",
     "static/media/portrait2.jpg": "/static/media/portrait2.28e54c79d4a305be73f3.jpg",
     "static/media/calcium_for_children.jpg": "/static/media/calcium_for_children.e715c085f2148a782aef.jpg",
@@ -77,11 +77,11 @@
     "static/media/success.svg": "/static/media/success.80ebdf85c83a99b8d746a4a6d38ca2dd.svg",
     "static/media/closeIcon.svg": "/static/media/closeIcon.12b13cd0077bcc1a5a844bdcf6bd7586.svg",
     "main.546633b0.css.map": "/static/css/main.546633b0.css.map",
-    "main.f4f74018.js.map": "/static/js/main.f4f74018.js.map",
-    "453.68693753.chunk.js.map": "/static/js/453.68693753.chunk.js.map"
+    "main.eae457da.js.map": "/static/js/main.eae457da.js.map",
+    "453.b209ef3f.chunk.js.map": "/static/js/453.b209ef3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.546633b0.css",
-    "static/js/main.f4f74018.js"
+    "static/js/main.eae457da.js"
   ]
 }
