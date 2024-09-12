@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.546633b0.css",
-    "main.js": "/static/js/main.bdf23250.js",
+    "main.js": "/static/js/main.8f49cf42.js",
     "static/js/453.b209ef3f.chunk.js": "/static/js/453.b209ef3f.chunk.js",
     "static/media/portrait3.jpg": "/static/media/portrait3.c2a25f50ba608164eb61.jpg",
     "static/media/portrait2.jpg": "/static/media/portrait2.28e54c79d4a305be73f3.jpg",
@@ -30,6 +30,7 @@
     "static/media/calcium_for_children2.jpg": "/static/media/calcium_for_children2.b0bcfc3fba4ddb832bd4.jpg",
     "static/media/bronchial_asthma.jpg": "/static/media/bronchial_asthma.ab9e70615ad1c0794876.jpg",
     "static/media/portrait1.jpg": "/static/media/portrait1.6ea25406a82bf202929e.jpg",
+    "static/media/omega_3.jpg": "/static/media/omega_3.3ee781b15210b45c08aa.jpg",
     "static/media/cordyceps2.jpg": "/static/media/cordyceps2.412a3392882c66b21709.jpg",
     "static/media/TianshiVitalitySoftgels.jpg": "/static/media/TianshiVitalitySoftgels.6f6c7ac5a57b93d70429.jpg",
     "static/media/Tiens_Vitality_Softgels.jpg": "/static/media/Tiens_Vitality_Softgels.6f6c7ac5a57b93d70429.jpg",
@@ -57,6 +58,7 @@
     "static/media/appointment_bg.webp": "/static/media/appointment_bg.58d21916d481002361ea.webp",
     "static/media/t5.jpg": "/static/media/t5.f3e4b4dd99fbf7a67207.jpg",
     "static/media/doctor2.jpg": "/static/media/doctor2.ba3c9a38517e7fb70bc9.jpg",
+    "static/media/vitamins_for_eyes.jpg": "/static/media/vitamins_for_eyes.4e8c9cf9264f0f3c0524.jpg",
     "static/media/instagram.svg": "/static/media/instagram.c83e628eea4e83e0d2b6c8e54910510c.svg",
     "static/media/foto2.jpg": "/static/media/foto2.9a88081337dc358e3054.jpg",
     "static/media/Tiens_Nutient_Super_Calcium_Powder.jpg": "/static/media/Tiens_Nutient_Super_Calcium_Powder.0670ce8ded05ea7e76d8.jpg",
@@ -77,11 +79,11 @@
     "static/media/success.svg": "/static/media/success.80ebdf85c83a99b8d746a4a6d38ca2dd.svg",
     "static/media/closeIcon.svg": "/static/media/closeIcon.12b13cd0077bcc1a5a844bdcf6bd7586.svg",
     "main.546633b0.css.map": "/static/css/main.546633b0.css.map",
-    "main.bdf23250.js.map": "/static/js/main.bdf23250.js.map",
+    "main.8f49cf42.js.map": "/static/js/main.8f49cf42.js.map",
     "453.b209ef3f.chunk.js.map": "/static/js/453.b209ef3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.546633b0.css",
-    "static/js/main.bdf23250.js"
+    "static/js/main.8f49cf42.js"
   ]
 }
