@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b61312fc.css",
-    "main.js": "/static/js/main.b4429cd4.js",
+    "main.js": "/static/js/main.52cb044d.js",
     "static/js/453.b209ef3f.chunk.js": "/static/js/453.b209ef3f.chunk.js",
     "static/media/portrait3.jpg": "/static/media/portrait3.c2a25f50ba608164eb61.jpg",
     "static/media/portrait2.jpg": "/static/media/portrait2.28e54c79d4a305be73f3.jpg",
@@ -54,6 +54,7 @@
     "static/media/chitosan.jpg": "/static/media/chitosan.21e7969c588deea8f654.jpg",
     "static/media/cordyceps.jpg": "/static/media/cordyceps.8a1e7b01f4e204bef8bb.jpg",
     "static/media/zink.jpg": "/static/media/zink.bc4fb8df59320b041797.jpg",
+    "static/media/vitality.jpg": "/static/media/vitality.cca6360a8b4c84efc04a.jpg",
     "static/media/doctor1.jpg": "/static/media/doctor1.d0dd315c769a6437e42e.jpg",
     "static/media/appointment_bg.webp": "/static/media/appointment_bg.58d21916d481002361ea.webp",
     "static/media/t5.jpg": "/static/media/t5.f3e4b4dd99fbf7a67207.jpg",
@@ -79,11 +80,11 @@
     "static/media/success.svg": "/static/media/success.80ebdf85c83a99b8d746a4a6d38ca2dd.svg",
     "static/media/closeIcon.svg": "/static/media/closeIcon.12b13cd0077bcc1a5a844bdcf6bd7586.svg",
     "main.b61312fc.css.map": "/static/css/main.b61312fc.css.map",
-    "main.b4429cd4.js.map": "/static/js/main.b4429cd4.js.map",
+    "main.52cb044d.js.map": "/static/js/main.52cb044d.js.map",
     "453.b209ef3f.chunk.js.map": "/static/js/453.b209ef3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b61312fc.css",
-    "static/js/main.b4429cd4.js"
+    "static/js/main.52cb044d.js"
   ]
 }
