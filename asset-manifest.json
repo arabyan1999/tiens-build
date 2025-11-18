@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b61312fc.css",
-    "main.js": "/static/js/main.ea72c26d.js",
+    "main.js": "/static/js/main.a8993181.js",
     "static/js/453.b209ef3f.chunk.js": "/static/js/453.b209ef3f.chunk.js",
     "static/media/portrait3.jpg": "/static/media/portrait3.c2a25f50ba608164eb61.jpg",
     "static/media/portrait2.jpg": "/static/media/portrait2.28e54c79d4a305be73f3.jpg",
@@ -26,6 +26,7 @@
     "static/media/anti-lipid_tea.jpg": "/static/media/anti-lipid_tea.ccd9392997ff1ab80bed.jpg",
     "static/media/tiens_headquarter.jpg": "/static/media/tiens_headquarter.bb4a669bdaf8d4f6040b.jpg",
     "static/media/feedbackImg1.jpg": "/static/media/feedbackImg1.dd725b97e30b818f9200.jpg",
+    "static/media/meri_manukyan.jpg": "/static/media/meri_manukyan.eaaad2276d951f1f148c.jpg",
     "static/media/certificate2.jpg": "/static/media/certificate2.eb39575f19032fd0b367.jpg",
     "static/media/t2.jpg": "/static/media/t2.c20050e168a3e3e98318.jpg",
     "static/media/omega_3.jpg": "/static/media/omega_3.ec1d70a8a23250a72869.jpg",
@@ -47,7 +48,7 @@
     "static/media/bgimage.jpg": "/static/media/bgimage.381874abe6b40e8f9bbd.jpg",
     "static/media/intestinal_dysbacteriosis.jpg": "/static/media/intestinal_dysbacteriosis.f8ad99f1772b927df706.jpg",
     "static/media/cover2.jpg": "/static/media/cover2.e0591b01c1697608e8bb.jpg",
-    "static/media/map.svg": "/static/media/map.6e308768f670c85d3179e1f9b50b0d88.svg",
+    "static/media/map.svg": "/static/media/map.eebf46c0fce9bd4a56abdd26880bfb6e.svg",
     "static/media/diabetes.jpg": "/static/media/diabetes.2fe134682f591abf3b54.jpg",
     "static/media/pressure_fluctuations.jpg": "/static/media/pressure_fluctuations.3329090c8c6123b645aa.jpg",
     "static/media/chitosan2.jpg": "/static/media/chitosan2.1f4b04a22748b5f37abb.jpg",
@@ -63,6 +64,7 @@
     "static/media/zink.jpg": "/static/media/zink.bc4fb8df59320b041797.jpg",
     "static/media/vitality.jpg": "/static/media/vitality.cca6360a8b4c84efc04a.jpg",
     "static/media/doctor1.jpg": "/static/media/doctor1.d0dd315c769a6437e42e.jpg",
+    "static/media/susanna_vardanyan.jpg": "/static/media/susanna_vardanyan.bec44b4d8585fe7a9381.jpg",
     "static/media/appointment_bg.webp": "/static/media/appointment_bg.58d21916d481002361ea.webp",
     "static/media/t5.jpg": "/static/media/t5.f3e4b4dd99fbf7a67207.jpg",
     "static/media/doctor2.jpg": "/static/media/doctor2.ba3c9a38517e7fb70bc9.jpg",
@@ -86,11 +88,11 @@
     "static/media/success.svg": "/static/media/success.80ebdf85c83a99b8d746a4a6d38ca2dd.svg",
     "static/media/closeIcon.svg": "/static/media/closeIcon.12b13cd0077bcc1a5a844bdcf6bd7586.svg",
     "main.b61312fc.css.map": "/static/css/main.b61312fc.css.map",
-    "main.ea72c26d.js.map": "/static/js/main.ea72c26d.js.map",
+    "main.a8993181.js.map": "/static/js/main.a8993181.js.map",
     "453.b209ef3f.chunk.js.map": "/static/js/453.b209ef3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b61312fc.css",
-    "static/js/main.ea72c26d.js"
+    "static/js/main.a8993181.js"
   ]
 }
