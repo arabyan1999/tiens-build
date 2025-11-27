@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b61312fc.css",
-    "main.js": "/static/js/main.a8993181.js",
+    "main.js": "/static/js/main.80f57dd6.js",
     "static/js/453.b209ef3f.chunk.js": "/static/js/453.b209ef3f.chunk.js",
     "static/media/portrait3.jpg": "/static/media/portrait3.c2a25f50ba608164eb61.jpg",
     "static/media/portrait2.jpg": "/static/media/portrait2.28e54c79d4a305be73f3.jpg",
@@ -79,7 +79,6 @@
     "static/media/ukflag.svg": "/static/media/ukflag.17380dbb2f6f42055851109cae2830cf.svg",
     "static/media/logo.svg": "/static/media/logo.4e6f1df2e69e686ea3d9d92a1a0cca4b.svg",
     "static/media/rusflag.svg": "/static/media/rusflag.df4d38ccdd75c3c167671c00a3e02e4d.svg",
-    "static/media/thyroidtreatment.webp": "/static/media/thyroidtreatment.23e4f0af09542606dc7b.webp",
     "index.html": "/index.html",
     "static/media/right-arrow-svgrepo-com.svg": "/static/media/right-arrow-svgrepo-com.2b7c53f8ae436d1b7dec535f7d1b4ef6.svg",
     "static/media/incorrect_icon.svg": "/static/media/incorrect_icon.9e2b81fe61a0e291f392d184b4276e25.svg",
@@ -88,11 +87,11 @@
     "static/media/success.svg": "/static/media/success.80ebdf85c83a99b8d746a4a6d38ca2dd.svg",
     "static/media/closeIcon.svg": "/static/media/closeIcon.12b13cd0077bcc1a5a844bdcf6bd7586.svg",
     "main.b61312fc.css.map": "/static/css/main.b61312fc.css.map",
-    "main.a8993181.js.map": "/static/js/main.a8993181.js.map",
+    "main.80f57dd6.js.map": "/static/js/main.80f57dd6.js.map",
     "453.b209ef3f.chunk.js.map": "/static/js/453.b209ef3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b61312fc.css",
-    "static/js/main.a8993181.js"
+    "static/js/main.80f57dd6.js"
   ]
 }
